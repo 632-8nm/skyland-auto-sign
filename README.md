@@ -1,6 +1,6 @@
 # skyland-auto-sign
 
-明日方舟森空岛一键签到脚本，基于python
+明日方舟森空岛一键签到脚本，基于python。源仓库：[skyland-auto-sign](https://gitee.com/FancyCabbage/skyland-auto-sign) 
 
 有三种方法部署
 > 1.自己手动在电脑上运行（不想挂载在服务器上的用户推荐这个，因为可以配合MAA一键签到）
